@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/applebetas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://applebetas.tk
+  * I am applebetas (https://keybase.io/applebetas) on keybase.
+  * I have a public key with fingerprint 84DC 84E8 169F 6DB6 E7B3  03D5 CD41 B403 E6E0 7E2E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b12b9f455df41af84ca20e55cbb64d6ffccddafe78c6676b69e8cb02d0ad77a60a",
+            "fingerprint": "84dc84e8169f6db6e7b303d5cd41b403e6e07e2e",
+            "host": "keybase.io",
+            "key_id": "cd41b403e6e07e2e",
+            "kid": "0101b12b9f455df41af84ca20e55cbb64d6ffccddafe78c6676b69e8cb02d0ad77a60a",
+            "uid": "15e23150c4a109801422897ee6bc5719",
+            "username": "applebetas"
+        },
+        "service": {
+            "hostname": "applebetas.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1475418473,
+    "expire_in": 157680000,
+    "prev": "e714a46051f9094db69dccfee1092429fb0820983eaa857a401794866864fc9d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIlAnicrZJbSBVBGMeP2cXsooEFgr1s2g3TmT2zs7unCEyzixXdKAppnZ2Z1UU9
+u56zWifTjKhOFBXRUxBFUUTS/YbQQ6UPkURRkFJEqFlmlGklSIXNSj3VY/MyzDf/
+/2++75uvZVJiIDlh9kDH3ukpOXUJrfeOVwc29qfbtZLpsJgUqpXK+cjGKxiPeka5
+zaSQBCCAJpRN3UKKwiwEiaUhSmTAFYWaJkYMWxaljBGLqxrFWMUm1rlGTSAzQJiq
+EgyIlC1ZdriUR9yIHfYEVkOMaohrEOsWZibmqhkEQaZQhqCJQJBjDlQuc2Esc6K+
+QyRnkijPsR0REwdjJL1/6P9z3tUjOKhwOQgVQBGBQNcARLKs6Srn2KSKCnVfGOWR
+MKnkQk1ct4Kb3CNRqS5bEvEam3K/tX4tf2lyvHJhdyOO51CnQlyVeZ4b8p1ezPWl
+W7lp/IYYph1mopPCUMMjUdsJSyEolNSzfSpEqoKghtRgtsS3uXaEG7avUFSsAbH8
+Z3iNQHIVIoIwUKClAx2JH9AZpRbnojoZybplAk0WhQY5IZqiEgSgqiMNYw0ji+pM
+8suqCjuCLaAeKRXMqF0aJl51hEt19+8Wjw4kJAfGjhnlj1ggeXzqn8HrHBg37H7Z
+9aK8yyDN3U0L217CKyV7BtYuaPvgXVzVnpp5rehuvXaidXZx6Z3+lvcNZ5OSt2dU
+LPn5LbY71qsW5qWeOnPqaW1T9zq7L/Da6hq68D3wxqic0DP16qed/Q0rJ5CCg1Uk
+7db0J/tbFy3r685MyvLGKVbW90stNx9NtmbGC+OXfxx/pRcVXcraf2yhMedtRhKL
+HX74dW7zho+bZjTmrqn/ue/0tVnD81OWr+6cQkNdJ3PS7cTFbN/Qu8Lcc/lNWyYu
+7elfkRYvmVYzeNQIRHs33YiVHdi8Q9mW3/pMGjxx/nnc+fG5IN54pNoNzbuc/3jM
+7cVGS97k6+2HUh+krJ9S3FGZ+At5b0OU
+=SpXM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/applebetas
+
+==================================================================
