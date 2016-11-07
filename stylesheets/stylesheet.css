@@ -76,6 +76,9 @@ html {
     .btn {
         font-size: 17pt;
     }
+    .btn.small {
+        font-size: 14pt;
+    }
 }
 @media(max-width: 900px) {
     .intro {
@@ -87,23 +90,29 @@ html {
         font-size: 30pt;
     }
     .links {
-        font-size: 16pt;
+        font-size: 15pt;
     }
     .btn {
         font-size: 16pt;
+    }
+    .btn.small {
+        font-size: 13pt;
     }
 }
 @media(max-width: 500px) {
     .links {
-        font-size: 15pt;
+        font-size: 14pt;
     }
 }
 @media(max-width: 340px) {
     .links {
-        font-size: 14pt;
+        font-size: 13pt;
     }
     .btn {
         font-size: 15pt;
+    }
+    .btn.small {
+        font-size: 12pt;
     }
 }
 
