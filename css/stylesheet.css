@@ -59,6 +59,11 @@ html {
     font-size: 18pt;
     padding: 10px;
 }
+.btn-small {
+    font-size: 15pt;
+    display: inline-block;
+}
+
 .btn:hover {
     color: #cecece;
 }
