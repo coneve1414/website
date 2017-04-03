@@ -1,8 +1,8 @@
 $(".intro, .links > a, .btn, .links").css({opacity: 0});
 $(".intro.cursor").hide();
 
-if(window.location.host != "applebetas.tk" && window.location.host != "www.applebetas.tk") {
-    window.location = "https://www.applebetas.tk";
+if(window.location.host != "applebetas.co" && window.location.host != "www.applebetas.co") {
+    window.location = "https://www.applebetas.co";
 }
 
 $(document).ready(function() {
