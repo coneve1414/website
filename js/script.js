@@ -1,6 +1,10 @@
 $(".intro, .links > a, .btn, .links").css({opacity: 0});
 $(".intro.cursor").hide();
 
+if(window.location.host != "applebetas.tk" && window.location.host != "www.applebetas.tk") {
+    window.location = "https://www.applebetas.tk";
+}
+
 $(document).ready(function() {
     // Start typing animation
     var startText = $(".intro.start").text();
